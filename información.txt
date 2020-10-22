@@ -1,0 +1,40 @@
+1. Comando para crear un archivo para poder describir un proyecto o un modulo
+    npm init -y 
+
+2. Crear un archivo index.js
+
+3. Crear una cuenta en github
+
+    - npm adduser g2020 HM2020
+
+4. cambiarle el nombre de usuario
+
+5. Saber nombre de la cuenta
+
+    npm whoami
+
+6. Subir el modulo
+
+    npm publish
+
+7. Subir a github
+
+    - Abra la cuenta
+
+    - Cree el repositorio
+
+8. Observar que git esté instalador
+
+    git --version
+
+8. Inicializar git
+
+    git init
+
+9. Creamos un archivo
+    .gitignore
+
+10. Vamos a ignorar la carpeta de node_modules
+    Escribimos dentro del archivo node_modules
+
+11. 
