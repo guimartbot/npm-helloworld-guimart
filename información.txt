@@ -37,4 +37,23 @@
 10. Vamos a ignorar la carpeta de node_modules
     Escribimos dentro del archivo node_modules
 
-11. 
+11. Escribimos git status
+
+12. Voy a añadir los archivos
+    git add .
+
+13. Si no está configurado el usuario y contraseña de git hacerlo de la siguiente manera:
+
+    $ git config --global user.name "John Doe"
+    $ git config --global user.email johndoe@example.com
+
+14. Ahora vamos a hacer el primer commit
+    git commit -m "first commit"
+
+15. Vamos a añadir el repositorio remoto
+
+    git remote add origin https://github.com/guimartbot/npm-helloworld-guimart.git
+
+16. Ahora hacemos un push
+
+    git push origin master
